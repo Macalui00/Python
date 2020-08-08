@@ -1,4 +1,4 @@
-#PIP es un gestor de paquetes y modulos para python
+ #PIP es un gestor de paquetes y modulos para python
 #un modulo es una libreria de codigo python que podes incluir en tu proyecto.
 
 #import nombredelmodulo si este modulo no existe en nuestro ordenador, tenemos que ir a la terminal,

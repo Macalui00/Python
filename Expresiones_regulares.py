@@ -44,8 +44,23 @@ print(re.findall("coche.*rojo", texto)) #devuelve una lista con todas las ocurre
 #El split devuelve una cadena a partir de un patron.
 
 texto = "La silla es blanca y vale 80"
-re.split("\s") #\s significa espacio en blanco, y lo vamos a utilizar como patron
+#re.split("\s") #\s significa espacio en blanco, y lo vamos a utilizar como patron
 
 #Por ultimo tenemos el sub: substituye todas las coincidencias de una cadena
 re.sub("blanca", "roja", texto)
 #indico lo que quiero cambiar, por que cosa lo quiero cambiar y la cadena de caracteres.
+
+"""
+match(): Determina si el RE coincide con el comienzo de la cadena.
+search(): Escanea una cadena, buscando cualquier ubicación donde coincida este RE.
+findall(): Encuentra todas las subcadenas donde coincide el RE y las devuelve como una lista.
+finditer(): Encuentra todas las subcadenas en las que coincide el RE y las devuelve como un iterador .
+
+Ahora puede consultar el objeto de coincidencia para obtener información sobre la cadena coincidente.
+group(): Devuelve la cadena que coincide con el RE
+start(): Devuelve la posición inicial del partido
+end(): Devuelve la posición final del partido
+span(): Devuelve una tupla que contiene las posiciones (inicio, final) del partido
+
+https://docs.python.org/3/howto/regex.html
+"""

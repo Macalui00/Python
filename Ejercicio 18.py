@@ -65,7 +65,13 @@ lista_alumnos = crearAlumnos(cantClases)
 serie = pd.Series(lista_alumnos, index= lista_clases)
 mostrarClases(serie)
 
+"""--------------------------------------------------------------------------------------------
+Solucion a un problema de indentacion que estaba teniendo:
+"You can fix the tab inconsistency by converting all indentation to tab or spaces. If you open the "Show All Commands" tab, ( by pressing Ctrl+Shift+P or F1 ) and search for "convert indentation", two options will by available:
 
+convert indentation to tabs
+convert indentation to spaces
+Just choose tabs if you use tabs or spaces if use spaces as your indentation method."
 
-
-
+url:https://stackoverflow.com/questions/49865751/vscode-extension-to-fix-inconsistent-tab-issue-of-python#:~:text=You%20can%20fix%20the%20tab,convert%20indentation%20to%20spaces
+"""

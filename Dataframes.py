@@ -43,3 +43,7 @@ lista_asignaturas = ['matematicas','historia', 'fisica']
 lista_notas = [8,7,9]
 diccionario = {'Asignatuas':lista_asignaturas, 'Notas':lista_notas}
 print(diccionario)
+
+#A partir de esto podemos crear un dataframe, le llamamos:
+dataframe_notas = pd.DataFrame(diccionario)
+print(dataframe_notas)

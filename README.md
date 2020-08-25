@@ -1,5 +1,5 @@
 #Python
-Realizando el curso curso completo de python 3 de udemy: https://www.udemy.com/course/curso-python/:
+He realizado el siguiente curso: "curso completo de python 3" de udemy: https://www.udemy.com/course/curso-python/:
 
 Estos son los temas principales que se tratan en este curso de Python. Cada tema se explica de forma práctica mediante ejemplos, para facilitar el aprendizaje:
 

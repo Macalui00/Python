@@ -1,6 +1,8 @@
 #Python
 He realizado el siguiente curso: "curso completo de python 3" de udemy: https://www.udemy.com/course/curso-python/:
 
+El repositorio esta organizado en carpetas separadas por el tema, en cada carpeta estan tambien los ejercicios relativos a cada tema.
+
 Estos son los temas principales que se tratan en este curso de Python. Cada tema se explica de forma práctica mediante ejemplos, para facilitar el aprendizaje:
 
       Formas de ejecutar un programa en Python

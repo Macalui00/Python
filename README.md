@@ -37,7 +37,6 @@ Estos son los temas principales que se tratan en este curso de Python. Cada tema
 
 ## EJERCICIOS O DESAFIOS REALIZADOS EN ESTE CURSO:
 - Cadenas de texto - EJERCICIO 1, 2 Y 3
-- [Cadenas de texto - EJERCICIO 1, 2 Y 3](Cadenas de texto/)
 - Operadores - EJERCICIO 4
 - Colección de datos - EJERCICIO 5
 - Bucles y Condiciones - EJERCICIO 6 Y 7
